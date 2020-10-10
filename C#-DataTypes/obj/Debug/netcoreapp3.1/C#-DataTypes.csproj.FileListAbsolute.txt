@@ -1,0 +1,4 @@
+C:\Users\kevin\OneDrive\Documents\Web Development projects\Codeacademy C#\C#-DataTypes\obj\Debug\netcoreapp3.1\C#-DataTypes.csprojAssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\Web Development projects\Codeacademy C#\C#-DataTypes\obj\Debug\netcoreapp3.1\C#-DataTypes.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\Web Development projects\Codeacademy C#\C#-DataTypes\obj\Debug\netcoreapp3.1\C#-DataTypes.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\Web Development projects\Codeacademy C#\C#-DataTypes\obj\Debug\netcoreapp3.1\C#-DataTypes.csproj.CoreCompileInputs.cache
