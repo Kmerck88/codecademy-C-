@@ -6,7 +6,21 @@ namespace Built_InMethods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           // Starting variables 
+      int numberOne = 12932;
+      int numberTwo = -2828472;
+
+      // Use built-in methods and save to variable 
+  Math.Floor(Math.Sqrt(Math.Abs(numberOne)));
+
+
+      // Use built-in methods and save to variable 
+ Math.Floor(Math.Sqrt(Math.Abs(numberTwo)));
+
+
+      // Print the lowest number
+
+      Console.WriteLine(Math.Min(numberOne, numberTwo)); 
         }
     }
 }
